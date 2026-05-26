@@ -1,0 +1,97 @@
+@font-face {
+    font-family: "lemonupgraded";
+    src: url(../lemon_upgraded.ttf) format("truetype")
+}
+
+body {
+    background-image: url(../images/contours.svg);
+    background-repeat: repeat;
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color: #806a61;
+    height: 150px;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    grid-column: 3;
+}
+
+iframe {
+    height: auto; 
+    width: 100vw;
+    position: fixed;
+    margin: 0px;
+    padding: 0px;
+}
+#content {
+    background-color: antiquewhite;
+    margin-top: -5px;
+    margin-bottom: -1000px;
+    margin-left: 13%;
+    margin-right: 13%;
+    margin-bottom: 13%;
+    padding-top: 155px; 
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#menu { 
+    position: absolute;
+    margin-left: 50vw;
+}
+#menu tr td a{
+    display: grid;
+    min-width: 13vw;
+    min-height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+    
+    font-family: "lemonupgraded", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-decoration-line: none;
+    color: #403631;
+    text-align: center;
+    align-items: center;
+    background-color: #bf7e62;
+    
+}
+#menu #top{
+    align-items: bottom;
+    display: flex;
+    margin-top: 17.5px;
+    margin-bottom: 2.5px;
+}
+#menu #bottom{
+    align-items: top;
+    display: flex;
+    margin-top: 2.5px;
+}
+
+
+#to_top {
+    position: sticky;
+    top: 95%;
+    margin-top: 200vh;
+ 
+    margin-left: 1050%;
+}
+#to_top img{
+    width:70px;
+}
+
+#img_name {
+    font-family: "lemonupgraded", Arial, Helvetica, sans-serif;
+    margin-left: 7vw;
+}
+
+header {
+    font-family: "lemonupgraded", Arial, Helvetica, sans-serif;
+
+}
