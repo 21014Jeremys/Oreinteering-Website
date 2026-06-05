@@ -1,3 +1,37 @@
-img {
-    scale: 1;
+#menu { 
+    position: absolute;
+    margin-left: 50vw;
+}
+#menu tr td a{
+    display: grid;
+    min-width: 13vw;
+    min-height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+    
+    font-family: "lemonupgraded", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-decoration-line: none;
+    color: #403631;
+    text-align: center;
+    align-items: center;
+    background-color: #bf7e62;
+    
+}
+#menu tr td a:hover{
+    background-color: #a76e56;
+}
+#menu #top{
+    align-items: bottom;
+    display: flex;
+    margin-top: 17.5px;
+    margin-bottom: 2.5px;
+}
+#menu #bottom{
+    align-items: top;
+    display: flex;
+    margin-top: 2.5px;
 }
