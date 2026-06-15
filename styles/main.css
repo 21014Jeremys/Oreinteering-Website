@@ -15,13 +15,16 @@ body {
 header {
     background-color: #806a61;
     height: 150px;
+    height: 150px;
     position: fixed;
     width: 100%;
     display: flex;
     grid-column: 3;
 }
 h1 {
+    color: #ca7c3aff;
     font-size: 50px;
+    margin-left: 12px;
 }
 
 
@@ -46,6 +49,14 @@ iframe {
 }
 
 /* css to do with map image*/
+
+
+#example {
+    position: absolute;
+    width: 10vw;
+    margin-left: 58vw;
+    margin-top: -10px;
+}
 #map {
     width:100%;
     display: flex;
@@ -55,6 +66,12 @@ iframe {
 #map img{
     width: 50vw;
 }
+
+#hook {
+    width:100%; 
+    margin-bottom: -100px;
+}
+
 
 /* css based with to top button */
 #to_top {
