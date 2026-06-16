@@ -1,54 +1,40 @@
-console.log("Hey, you are reading this!");
+const express = require("express");
+const nodemailer = require("nodemailer");
+const cors = require("cors");
 
-let list_data = [];
-const demon_button = document.getElementById("demon_button");
-console.log(demon_button);
 
-const style = document.styleSheets[0];
-console.log(style.cssRules[0]);
+const app = express();
+app.use(cors());
+app.use(express.json());
 
-const iframe = document.getElementById("header");
-iframe.onload = function(){
-    const iframeDoc = iframe.contentWindow.document;
+app.post("/send-email", async (req, res) => {
+  try {
+    const { name, email, message } = req.body;
     
-    const logo = iframeDoc.getElementById("website_logo");
-    const header = iframeDoc.getElementById("header");
+    let transporter = nodemailer.createTransport({
+      service: "gmail",
+      auth: {
+        user: "orienteering.online.server@gmail.com",
+        pass: "rvkn vgnf yppt exar"
+      }
+    });
 
-    if (demon_button != null){
-        demon_button.onclick = function(){
-            window.alert("You have doomed yourself!");
-            logo.src = "../images/logo_with_demon.svg";
-            header.style.backgroundColor = "#000000";
-            console.log(logo.src);
-        };
-    }
-};
+    await transporter.sendMail({
+      from: "orienteering.online.server@gmail.com",
+      to: "21014@jpc.school.nz",
+      subject: `New message from ${name}`,
+      text: `
+        Name: ${name}
+        Email Address: ${email}
+        ${message}
+      `
+    });
 
+    res.send("Email sent!");
+  } catch (err) {
+    console.error(err);
+    res.status(500).send("Error sending email");
+  }
+});
 
-
-
-const sub_button = document.getElementById("submit_button");
-
-if (sub_button != null){
-    sub_button.onclick = function(){
-        list_data.push(document.getElementById("name_input").value);
-        list_data.push(document.getElementById("email_input").value);
-        list_data.push(document.getElementById("subject_input").value);
-        list_data.push(document.getElementById("message_input").value);
-        console.log(list_data);
-    };
-} else {
-    console.log("No button found :(");
-}
-
-
-
-
-
-
-function spam() {
-    window.alert("This is a warning!");
-    window.alert("The sun is not exploding!");
-    window.alert("I am hungary");
-
-}
+app.listen(3000, () => console.log("Server running on port 3000"));

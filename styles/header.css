@@ -32,13 +32,11 @@
     background-color: #a76e56;
 }
 #menu #top{
-    align-items: bottom;
     display: flex;
     margin-top: 17.5px;
     margin-bottom: 2.5px;
 }
 #menu #bottom{
-    align-items: top;
     display: flex;
     margin-top: 2.5px;
 }
