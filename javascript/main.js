@@ -14,7 +14,7 @@ const iframe = document.getElementById("header");
     const header = iframeDoc.getElementById("header");
 
     if (demon_button != null){
-        demon_button.onclick = function(){
+        demon_button.onclick = function() {
             window.alert("You have doomed yourself!");
             logo.src = "../images/logo_with_demon.svg";
             header.style.backgroundColor = "#000000";

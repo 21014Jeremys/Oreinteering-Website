@@ -1,0 +1,28 @@
+
+.events tbody tr .date{
+    max-width: 180px;
+}
+.events tbody tr .name{
+    width: max-content;
+    color: #ca7c3aff;
+}
+.events tbody tr .name a{
+    color: #ca7c3aff;
+}
+.events tbody tr .location{
+    max-width: 180px;
+}
+.events tbody tr .club{
+    max-width: 140px;
+    text-align: center;
+}
+.events tbody .one{
+    background-color: rgb(223, 210, 193);
+    border-width: 0px;
+}
+.events tbody tr:hover{
+    background-color: rgb(221, 203, 179);
+}
+.events tbody tr{
+    height: 40px;
+}

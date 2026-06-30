@@ -1,0 +1,625 @@
+[
+  {
+    "date": "Wed 24 Jun 2026",
+    "name": "Afterwork Rogaine - Upper Hutt",
+    "link": "https://www.orienteering.org.nz/events/afterwork-rogaine-upper-hutt/",
+    "location": "Silverstream, Upper Hutt",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Wed 24 Jun 2026",
+    "name": "NOCturnal 1 - Centre of New Zealand",
+    "link": "https://www.orienteering.org.nz/events/nocturnal-2-centre-of-new-zealand/",
+    "location": "Nelson",
+    "club": "Nelson"
+  },
+  {
+    "date": "Thu 25 Jun 2026",
+    "name": "OBOP Night Nav Series #3",
+    "link": "https://www.orienteering.org.nz/events/obop-night-nav-series-3/",
+    "location": "Waipa Car Park - Rotorua",
+    "club": "Bay of Plenty"
+  },
+  {
+    "date": "Sat 27 Jun 2026",
+    "name": "Return to QE Park",
+    "link": "https://www.orienteering.org.nz/events/return-to-qe-park/",
+    "location": "Paraparaumu",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Sat 27 Jun 2026",
+    "name": "Winter sprint 4 MICRO",
+    "link": "https://www.orienteering.org.nz/events/winter-sprint-4-micro/",
+    "location": "Greenlane, Auckland",
+    "club": "Auckland"
+  },
+  {
+    "date": "Sun 28 Jun 2026",
+    "name": "Woodend orienteering",
+    "link": "https://www.orienteering.org.nz/events/micro-sprint/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sun 28 Jun 2026",
+    "name": "Karori Park",
+    "link": "https://www.orienteering.org.nz/events/karori-park/",
+    "location": "Karori Park",
+    "club": "Wellington"
+  },
+  {
+    "date": "Wed 01 Jul 2026",
+    "name": "Grampains Full Moon Rogaine - Fundraiser",
+    "link": "https://www.orienteering.org.nz/events/grampains-full-moon-rogaine-fundraiser/",
+    "location": "Nelson College, Nelson",
+    "club": "Nelson"
+  },
+  {
+    "date": "Sun 05 Jul 2026",
+    "name": "DTM Memorial Rogaine",
+    "link": "https://www.orienteering.org.nz/events/dtm-memorial-rogaine/",
+    "location": "494 Farm Rd, Waipukurau",
+    "club": "Hawkes Bay"
+  },
+  {
+    "date": "Sun 05 Jul 2026",
+    "name": "Whanganui Double Sprint",
+    "link": "https://www.orienteering.org.nz/events/whanganui-double-sprint/",
+    "location": "Whanganui",
+    "club": "Red Kiwi"
+  },
+  {
+    "date": "Sun 05 Jul 2026",
+    "name": "Whanganui double-header",
+    "link": "https://www.orienteering.org.nz/events/whanganui-double-header/",
+    "location": "Whanganui",
+    "club": "Red Kiwi"
+  },
+  {
+    "date": "Sun 05 Jul 2026",
+    "name": "Classic Orienteering 3 - Topec",
+    "link": "https://www.orienteering.org.nz/events/classic-orienteering-3-topec/",
+    "location": "New Plymouth",
+    "club": "Taranaki"
+  },
+  {
+    "date": "Wed 08 Jul 2026",
+    "name": "NOCturnal 2 - Marsden Valley",
+    "link": "https://www.orienteering.org.nz/events/nocturnal-1-marsden-valley/",
+    "location": "Stoke, Nelson",
+    "club": "Nelson"
+  },
+  {
+    "date": "Tue 14 Jul 2026",
+    "name": "Night Event 3",
+    "link": "https://www.orienteering.org.nz/events/night-event-3-3/",
+    "location": "Havelock North",
+    "club": "Hawkes Bay"
+  },
+  {
+    "date": "Thu 16 Jul 2026 - Sat 18 Jul 2026",
+    "name": "NZ secondary schools orienteering champs 2026",
+    "link": "https://www.orienteering.org.nz/events/nz-secondary-schools-orienteering-champs/",
+    "location": "Canterbury",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sun 19 Jul 2026",
+    "name": "1 Hour Score",
+    "link": "https://www.orienteering.org.nz/events/1-hour-score-2/",
+    "location": "Lower Hutt",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Sun 19 Jul 2026",
+    "name": "NZ secondary schools rogaine champs 2026",
+    "link": "https://www.orienteering.org.nz/events/nz-secondary-schools-rogaine-champs-2026/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Wed 22 Jul 2026",
+    "name": "NOCturnal 3 - Tahunanui / Port Hills",
+    "link": "https://www.orienteering.org.nz/events/nocturnal-4-tahunanui-port-hills/",
+    "location": "Nelson",
+    "club": "Nelson"
+  },
+  {
+    "date": "Sat 25 Jul 2026",
+    "name": "Great Forest Rogaine",
+    "link": "https://www.orienteering.org.nz/events/great-forest-rogaine-11/",
+    "location": "Rotorua",
+    "club": "Bay of Plenty"
+  },
+  {
+    "date": "Sun 26 Jul 2026",
+    "name": "OY - Kaukau",
+    "link": "https://www.orienteering.org.nz/events/oy-location-tbc/",
+    "location": "Kaukau",
+    "club": "Wellington"
+  },
+  {
+    "date": "Wed 29 Jul 2026",
+    "name": "July Afterwork Rogaine",
+    "link": "https://www.orienteering.org.nz/events/july-afterwork-rogaine-8/",
+    "location": "Wellington",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Sun 02 Aug 2026",
+    "name": "OY 3 Middle distance Event",
+    "link": "https://www.orienteering.org.nz/events/oy-3-middle-distance-event/",
+    "location": "Havelock North",
+    "club": "Hawkes Bay"
+  },
+  {
+    "date": "Sun 02 Aug 2026",
+    "name": "Huntleigh Park Score",
+    "link": "https://www.orienteering.org.nz/events/huntleigh-park-score/",
+    "location": "Huntleigh Park, Ngaio",
+    "club": "Wellington"
+  },
+  {
+    "date": "Sun 02 Aug 2026",
+    "name": "Classic Orienteering 4 - Ratapihipihi",
+    "link": "https://www.orienteering.org.nz/events/classic-orienteering-4-ratapihipihi/",
+    "location": "New Plymouth",
+    "club": "Taranaki"
+  },
+  {
+    "date": "Sat 08 Aug 2026",
+    "name": "UCOC Ultrasprint",
+    "link": "https://www.orienteering.org.nz/events/ucoc-ultrasprint/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sun 09 Aug 2026",
+    "name": "OY - Waiterere Forest",
+    "link": "https://www.orienteering.org.nz/events/oy-waiterere-forest/",
+    "location": "Levin",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Wed 12 Aug 2026",
+    "name": "Night event",
+    "link": "https://www.orienteering.org.nz/events/mt-victoria-night/",
+    "location": "TBC",
+    "club": "Wellington"
+  },
+  {
+    "date": "Sun 16 Aug 2026",
+    "name": "Joe Sherriff",
+    "link": "https://www.orienteering.org.nz/events/joe-sherriff/",
+    "location": "Alexandra",
+    "club": "Dunedin"
+  },
+  {
+    "date": "Sun 16 Aug 2026",
+    "name": "1 Hour Score",
+    "link": "https://www.orienteering.org.nz/events/1-hour-score-3/",
+    "location": "Lower Hutt",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Sun 16 Aug 2026",
+    "name": "Winton Sprint",
+    "link": "https://www.orienteering.org.nz/events/winton-sprint/",
+    "location": "Winton",
+    "club": "Southland"
+  },
+  {
+    "date": "Sun 23 Aug 2026",
+    "name": "Club Champs",
+    "link": "https://www.orienteering.org.nz/events/club-champs-7/",
+    "location": "Waimarama",
+    "club": "Hawkes Bay"
+  },
+  {
+    "date": "Sun 23 Aug 2026",
+    "name": "Double sprint OY. University of Canterbury",
+    "link": "https://www.orienteering.org.nz/events/double-sprint-oy-uc-halls-ilam-gardens/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sun 23 Aug 2026",
+    "name": "Tutaenui Farm, Club and Manawatu Schools Championships",
+    "link": "https://www.orienteering.org.nz/events/tutaenui-farm-club-and-manawatu-schools-championships/",
+    "location": "Marton",
+    "club": "Red Kiwi"
+  },
+  {
+    "date": "Wed 26 Aug 2026",
+    "name": "August Afterwork Rogaine",
+    "link": "https://www.orienteering.org.nz/events/august-afterwork-rogaine-9/",
+    "location": "Wellington",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Sat 29 Aug 2026",
+    "name": "Night MTBO. McLeans Island",
+    "link": "https://www.orienteering.org.nz/events/night-mtbo-mcleans-island-2/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sun 30 Aug 2026",
+    "name": "Orienteering Challenge 1/Auckland Forest Cup",
+    "link": "https://www.orienteering.org.nz/events/orienteering-challenge-1-3/",
+    "location": "Wairakau Rd, Te Aroha",
+    "club": "Waikato"
+  },
+  {
+    "date": "Sun 30 Aug 2026",
+    "name": "Club event TBA",
+    "link": "https://www.orienteering.org.nz/events/pokapu-champs-day-2-2/",
+    "location": "TBC",
+    "club": "Wellington"
+  },
+  {
+    "date": "Fri 04 Sep 2026",
+    "name": "Massey University, Palmerston North",
+    "link": "https://www.orienteering.org.nz/events/massey-university-palmerston-north/",
+    "location": "Palmerston North",
+    "club": "Red Kiwi"
+  },
+  {
+    "date": "Sun 06 Sep 2026",
+    "name": "Massey",
+    "link": "https://www.orienteering.org.nz/events/massey-2/",
+    "location": "Palmerston North",
+    "club": "Red Kiwi"
+  },
+  {
+    "date": "Sun 06 Sep 2026",
+    "name": "Mt Albert Score",
+    "link": "https://www.orienteering.org.nz/events/mt-albert-score/",
+    "location": "Mt Albert",
+    "club": "Wellington"
+  },
+  {
+    "date": "Mon 07 Sep 2026",
+    "name": "AIMS Games Orienteering - Sprint",
+    "link": "https://www.orienteering.org.nz/events/aims-games-orienteering-sprint-event/",
+    "location": "Tauranga",
+    "club": "Bay of Plenty"
+  },
+  {
+    "date": "Tue 08 Sep 2026",
+    "name": "AIMS Games Orienteering - Rogaine",
+    "link": "https://www.orienteering.org.nz/events/aims-games-orienteering-rogaine/",
+    "location": "Tauranga",
+    "club": "Bay of Plenty"
+  },
+  {
+    "date": "Wed 09 Sep 2026",
+    "name": "NightNav 1",
+    "link": "https://www.orienteering.org.nz/events/nightnav-1-6/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sat 12 Sep 2026 - Sun 13 Sep 2026",
+    "name": "South Island Secondary Schools Champs 2026",
+    "link": "https://www.orienteering.org.nz/events/south-island-secondary-schools-champs-2026/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sun 13 Sep 2026",
+    "name": "Auckland Forest Cup 2026 Final",
+    "link": "https://www.orienteering.org.nz/events/auckland-forest-cup-2026-final/",
+    "location": "Auckland",
+    "club": "North West"
+  },
+  {
+    "date": "Sun 13 Sep 2026",
+    "name": "OY4 Sprint",
+    "link": "https://www.orienteering.org.nz/events/oy4-sprint-2/",
+    "location": "Havelock North",
+    "club": "Hawkes Bay"
+  },
+  {
+    "date": "Sun 13 Sep 2026",
+    "name": "Newlands Score",
+    "link": "https://www.orienteering.org.nz/events/newlands-4/",
+    "location": "Newlands",
+    "club": "Wellington"
+  },
+  {
+    "date": "Wed 16 Sep 2026",
+    "name": "NightNav 2",
+    "link": "https://www.orienteering.org.nz/events/nightnav-2-6/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sun 20 Sep 2026",
+    "name": "Bottle Lake Adventure Rogaine",
+    "link": "https://www.orienteering.org.nz/events/bottle-lake-adventure-rogaine-5/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sun 20 Sep 2026",
+    "name": "Orienteering Challenge 2",
+    "link": "https://www.orienteering.org.nz/events/orienteering-challenge-3-3/",
+    "location": "Hamilton",
+    "club": "Waikato"
+  },
+  {
+    "date": "Sun 20 Sep 2026",
+    "name": "Otatara Dunes",
+    "link": "https://www.orienteering.org.nz/events/otatara-dunes-2/",
+    "location": "Invercargill",
+    "club": "Southland"
+  },
+  {
+    "date": "Wed 23 Sep 2026",
+    "name": "NightNav 3",
+    "link": "https://www.orienteering.org.nz/events/nightnav-3-6/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Wed 23 Sep 2026",
+    "name": "September Afterwork Rogaine",
+    "link": "https://www.orienteering.org.nz/events/september-afterwork-rogaine-9/",
+    "location": "Porirua",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Sun 27 Sep 2026",
+    "name": "Halswell Quarry Orienteering",
+    "link": "https://www.orienteering.org.nz/events/halswell-quarry-orienteering/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sat 10 Oct 2026",
+    "name": "Red Kiwi Orienteering Training",
+    "link": "https://www.orienteering.org.nz/events/red-kiwi-orienteering-training/",
+    "location": "Palmerston North",
+    "club": "Red Kiwi"
+  },
+  {
+    "date": "Sun 11 Oct 2026",
+    "name": "Orienteering Challenge 3",
+    "link": "https://www.orienteering.org.nz/events/orienteering-challenge-4-3/",
+    "location": "Rahiri Rd, Roto o rangi",
+    "club": "Waikato"
+  },
+  {
+    "date": "Sun 18 Oct 2026",
+    "name": "OY 5 Long Event at Edenham",
+    "link": "https://www.orienteering.org.nz/events/oy-5-long-event-at-edenham/",
+    "location": "Hastings",
+    "club": "Hawkes Bay"
+  },
+  {
+    "date": "Sun 18 Oct 2026",
+    "name": "Waikuku OY",
+    "link": "https://www.orienteering.org.nz/events/waikuku-oy/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sun 18 Oct 2026",
+    "name": "Club event",
+    "link": "https://www.orienteering.org.nz/events/club-event-46/",
+    "location": "Waikawa Beach",
+    "club": "Wellington"
+  },
+  {
+    "date": "Sun 18 Oct 2026",
+    "name": "Oreti Links",
+    "link": "https://www.orienteering.org.nz/events/oreti-links-4/",
+    "location": "Invercargill",
+    "club": "Southland"
+  },
+  {
+    "date": "Wed 21 Oct 2026",
+    "name": "October Afterwork Rogaine",
+    "link": "https://www.orienteering.org.nz/events/october-afterwork-rogaine-10/",
+    "location": "Wellington",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Sat 24 Oct 2026 - Mon 26 Oct 2026",
+    "name": "Taitonga - Southern Regional Championships",
+    "link": "https://www.orienteering.org.nz/events/taitonga-southern-regional-championships/",
+    "location": "Tapawera and Nelson Lakes National Park",
+    "club": "Nelson"
+  },
+  {
+    "date": "Thu 29 Oct 2026",
+    "name": "Afterwork",
+    "link": "https://www.orienteering.org.nz/events/afterwork-5/",
+    "location": "Te Ahumairangi",
+    "club": "Wellington"
+  },
+  {
+    "date": "Sun 01 Nov 2026",
+    "name": "OY 6 Middle Event",
+    "link": "https://www.orienteering.org.nz/events/oy-6-middle-event/",
+    "location": "Havelock North",
+    "club": "Hawkes Bay"
+  },
+  {
+    "date": "Sun 01 Nov 2026",
+    "name": "Orienteering Challenge 4",
+    "link": "https://www.orienteering.org.nz/events/orienteering-challenge-5-2/",
+    "location": "Harding Rd, Wharepapa South",
+    "club": "Waikato"
+  },
+  {
+    "date": "Wed 04 Nov 2026",
+    "name": "Afterwork Orienteering",
+    "link": "https://www.orienteering.org.nz/events/afterwork-orienteering/",
+    "location": "Lower Hutt",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Sun 08 Nov 2026",
+    "name": "2x2 Relay, and RKOC 50th Birthday",
+    "link": "https://www.orienteering.org.nz/events/2x2-relay-and-rkoc-50th-birthday/",
+    "location": "Waiterere Beach",
+    "club": "Red Kiwi"
+  },
+  {
+    "date": "Wed 11 Nov 2026",
+    "name": "Wellington Regional 50th Birthday Celebrations",
+    "link": "https://www.orienteering.org.nz/events/wellington-regional-50th-birthday-celebrations/",
+    "location": "Waterfront",
+    "club": "Wellington"
+  },
+  {
+    "date": "Fri 13 Nov 2026",
+    "name": "MTBO OY. Hanmer Springs",
+    "link": "https://www.orienteering.org.nz/events/mtbo-oy-hanmer-springs/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sat 14 Nov 2026",
+    "name": "Night OY. Boyle River",
+    "link": "https://www.orienteering.org.nz/events/night-oy-boyle-river/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sat 14 Nov 2026 - Sun 15 Nov 2026",
+    "name": "Hawkes Bay O Club 50th Anniversary Celebrations",
+    "link": "https://www.orienteering.org.nz/events/hawkes-bay-o-club-50th-anniversary-celebrations/",
+    "location": "Havelock North",
+    "club": "Hawkes Bay"
+  },
+  {
+    "date": "Sun 15 Nov 2026",
+    "name": "Boyle River Orienteering",
+    "link": "https://www.orienteering.org.nz/events/boyle-river-orienteering/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sun 15 Nov 2026",
+    "name": "Ocean Beach",
+    "link": "https://www.orienteering.org.nz/events/ocean-beach-8/",
+    "location": "Bluff",
+    "club": "Southland"
+  },
+  {
+    "date": "Wed 18 Nov 2026",
+    "name": "November Afterwork Rogaine",
+    "link": "https://www.orienteering.org.nz/events/november-afterwork-rogaine-10/",
+    "location": "Wellington",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Thu 19 Nov 2026",
+    "name": "Afterwork Orienteering",
+    "link": "https://www.orienteering.org.nz/events/afterwork-orienteering-2/",
+    "location": "Lower Hutt",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Sat 21 Nov 2026 - Sun 22 Nov 2026",
+    "name": "Pokapu Champs",
+    "link": "https://www.orienteering.org.nz/events/pokapu-champs/",
+    "location": "? Kapiti Coast",
+    "club": "Wellington"
+  },
+  {
+    "date": "Sat 21 Nov 2026",
+    "name": "Pokapu Champs Day 1",
+    "link": "https://www.orienteering.org.nz/events/pokapu-champs-day-1-2/",
+    "location": "TBC",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Sun 22 Nov 2026",
+    "name": "Orienteering Challenge 6",
+    "link": "https://www.orienteering.org.nz/events/orienteering-challenge-6-2/",
+    "location": "Scott Rd, Horahora",
+    "club": "Waikato"
+  },
+  {
+    "date": "Wed 25 Nov 2026",
+    "name": "Afterwork - Botanic Gardens",
+    "link": "https://www.orienteering.org.nz/events/afterwork-botanic-gardens/",
+    "location": "Botanic Gardens",
+    "club": "Wellington"
+  },
+  {
+    "date": "Sun 29 Nov 2026",
+    "name": "Wayne Cretney Classic - 40th anniversary",
+    "link": "https://www.orienteering.org.nz/events/wayne-cretney-classic-40th-anniversary/",
+    "location": "Masterton",
+    "club": "Wairarapa"
+  },
+  {
+    "date": "Sun 29 Nov 2026",
+    "name": "Xmas event. Diamond Harbour",
+    "link": "https://www.orienteering.org.nz/events/xmas-event-diamond-harbour-2/",
+    "location": "Christchurch",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Wed 02 Dec 2026",
+    "name": "Afterwork Orienteering",
+    "link": "https://www.orienteering.org.nz/events/afterwork-orienteering-3/",
+    "location": "Lower Hutt",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Fri 04 Dec 2026",
+    "name": "AGM & Novelty Event",
+    "link": "https://www.orienteering.org.nz/events/agm-novelty-event/",
+    "location": "Napier",
+    "club": "Hawkes Bay"
+  },
+  {
+    "date": "Sat 05 Dec 2026",
+    "name": "AGM 2026 (Details to come)",
+    "link": "https://www.orienteering.org.nz/events/agm-2026-details-to-come/",
+    "location": "Wellington",
+    "club": "Wellington"
+  },
+  {
+    "date": "Sun 06 Dec 2026",
+    "name": "Big Trig Rogaine",
+    "link": "https://www.orienteering.org.nz/events/big-trig-rogaine/",
+    "location": "Lower Hutt",
+    "club": "Hutt Valley"
+  },
+  {
+    "date": "Sun 13 Dec 2026",
+    "name": "Manuka Mire Christmas Event",
+    "link": "https://www.orienteering.org.nz/events/manuka-mire-christmas-event/",
+    "location": "Mokotua!",
+    "club": "Southland"
+  },
+  {
+    "date": "Sat 06 Feb 2027 - Mon 08 Feb 2027",
+    "name": "Taitonga – Southern Regional Championships 2027",
+    "link": "https://www.orienteering.org.nz/events/taitonga-southern-regional-championships-2027/",
+    "location": "Tekapo",
+    "club": "Peninsula & Plains"
+  },
+  {
+    "date": "Sat 20 Mar 2027 - Sun 21 Mar 2027",
+    "name": "Katoa Po night relays and explorer weekend",
+    "link": "https://www.orienteering.org.nz/events/katoa-po-night-relays-and-explorer-weekend-3/",
+    "location": "Taupo",
+    "club": "Taupo"
+  },
+  {
+    "date": "Sat 24 Apr 2027 - Mon 26 Apr 2027",
+    "name": "NZ MTBO Champs 2027",
+    "link": "https://www.orienteering.org.nz/events/nz-mtbo-champs-2027/",
+    "location": "Canterbury",
+    "club": "Peninsula & Plains"
+  }
+]
