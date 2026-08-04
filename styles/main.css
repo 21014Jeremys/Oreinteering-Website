@@ -12,15 +12,14 @@ body {
     margin: 0px;
 }
 
-header {
-    background-color: #806a61;
-    height: 150px;
-    height: 150px;
+.header {
+    height: 10vh; 
+    width: 100vw;
     position: fixed;
-    width: 100%;
-    display: flex;
-    grid-column: 3;
+    margin: 0px;
+    padding: 0px;
 }
+
 h1 {
     color: #ca7c3aff;
     font-size: 50px;
@@ -28,13 +27,6 @@ h1 {
 }
 
 
-iframe {
-    height: auto; 
-    width: 100vw;
-    position: fixed;
-    margin: 0px;
-    padding: 0px;
-}
 .content {
     background-color: antiquewhite;
     margin-top: -5px;
@@ -42,7 +34,7 @@ iframe {
     margin-left: 13vw;
     margin-right: 13vw;
     margin-bottom: 13vh;
-    padding-top: 155px; 
+    padding-top: 12vh; 
     padding-left: 25px;
     padding-right: 25px;
     padding-bottom: 25px;
