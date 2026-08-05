@@ -31,8 +31,8 @@ h1 {
     background-color: antiquewhite;
     margin-top: -5px;
     margin-bottom: -1000px;
-    margin-left: 13vw;
-    margin-right: 13vw;
+    margin-left: max(0px, calc(17vw - 100px));
+    margin-right: max(0px, calc(17vw - 100px));
     margin-bottom: 13vh;
     padding-top: 12vh; 
     padding-left: 25px;

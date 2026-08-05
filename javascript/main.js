@@ -1,13 +1,16 @@
 console.log("Hey, you are reading this!");
+
+
 let list_data = [];
+export let is_demon_mode = false;
+
 const demon_button = document.getElementById("demon_button");
 console.log(demon_button);
-
 const style = document.styleSheets[0];
 console.log(style.cssRules[0]);
 
 const iframe = document.getElementById("header");
-/*iframe.onload = function(){
+iframe.onload = function(){
     const iframeDoc = iframe.contentWindow.document;
     
     const logo = iframeDoc.getElementById("website_logo");
@@ -16,12 +19,17 @@ const iframe = document.getElementById("header");
     if (demon_button != null){
         demon_button.onclick = function() {
             window.alert("You have doomed yourself!");
-            logo.src = "../images/logo_with_demon.svg";
-            header.style.backgroundColor = "#000000";
+            logo.src = "../images/header/demon_mode/logo_with_demon.svg";
+            if (is_demon_mode == false) {
+                is_demon_mode = true
+            } else {
+                is_demon_mode = false
+            };
+            
             console.log(logo.src);
         };
     }
-};*/
+};
 
 
 

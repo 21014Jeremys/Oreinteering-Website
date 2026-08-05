@@ -7,7 +7,9 @@ header.addEventListener("load", () => {
     const viewHeight = window.innerHeight;
     const viewWidth = document.documentElement.clientWidth;
     const menu = doc.getElementById("menu");
+    
     if (viewWidth - (viewHeight/10 * 3.5) < viewHeight/ 10 / 0.30) {
+      
       styleSheet.href = "../styles/squished_header.css";
       header.style.height = "20vh";
       content.style.paddingTop = "22vh";
