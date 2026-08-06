@@ -1,4 +1,30 @@
 
+#drop_down {
+    background-color: azure;
+    position: absolute;
+    text-align: center;
+    padding-top: 0.5vh;
+    width: 20vw;
+    height: 1.5vh;
+    right: 6vw;
+}
+#drop_down:hover div{
+    display:block;
+}
+#drop_down div:first-of-type {
+    margin-top: 0.5vh;
+}
+#drop_down div {
+    display: none;
+    width: 20vw;
+    height: 2vh;
+}
+#drop_down button {
+    text-align: center;
+    width: 20vw;
+    height: 2vh;
+}
+
 .events tbody tr .date{
     max-width: 180px;
 }
