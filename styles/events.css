@@ -3,10 +3,11 @@
     background-color: azure;
     position: absolute;
     text-align: center;
-    padding-top: 0.5vh;
+    padding-top: 10px;
+    margin-top: -50px;
     width: 20vw;
-    height: 1.5vh;
-    right: 6vw;
+    height: 30px;
+    right: 11vw;
 }
 #drop_down:hover div{
     display:block;
@@ -17,29 +18,30 @@
 #drop_down div {
     display: none;
     width: 20vw;
-    height: 2vh;
+    height: 30px;
 }
 #drop_down button {
     text-align: center;
     width: 20vw;
-    height: 2vh;
+    height: 30px;
 }
 
 .events tbody tr .date{
-    max-width: 180px;
+    width: 13vw;
 }
 .events tbody tr .name{
-    width: max-content;
+    width: 35vw;
     color: #ca7c3aff;
 }
 .events tbody tr .name a{
     color: #ca7c3aff;
 }
 .events tbody tr .location{
-    max-width: 180px;
+    width: 19vw;
+    text-align: center;
 }
 .events tbody tr .club{
-    max-width: 140px;
+    width: 9vw;
     text-align: center;
 }
 .events tbody .one{

@@ -13,11 +13,12 @@ window.addEventListener("DOMContentLoaded",() => {
 const mainTable = document.getElementsByClassName("main_table_parent")[0];
 const update = document.getElementsByClassName("update")[0];
 const dropdown = document.getElementById("drop_down");
-let stripe = "two"
+
 
 
 function makeTable(data, sort) {
     let clubs = ["All"]
+    let stripe = "two"
     allData = data
     mainTable.replaceChildren();
     data.forEach(event => {
