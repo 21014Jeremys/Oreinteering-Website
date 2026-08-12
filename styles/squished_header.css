@@ -1,5 +1,5 @@
 header {
-    background-color: #481E14;
+    background-color: #D9CBB6;
     height: 100vh;
     position: fixed;
     width: 100vw;
@@ -38,11 +38,11 @@ header {
     color: #481E14;
     text-align: center;
     align-items: center;
-    background-color: #9B3922;
+    background-color: #F5E6C8;
     
 }
 #menu tr td a:hover{
-    background-color: #8d3420;
+    background-color: #c5b8a6;
 }
 #menu #top{
     display: flex;

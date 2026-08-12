@@ -1,5 +1,5 @@
 header {
-    background-color: #9B3922;
+    background-color: #1E3D2F;
     height: 100vh;
     position: fixed;
     width: 100vw;
@@ -35,14 +35,14 @@ header {
     font-family: "lemonupgraded", Arial, Helvetica, sans-serif;
     font-size: 25vh;
     text-decoration-line: none;
-    color: #403631;
+    color: #cacaca;
     text-align: center;
     align-items: center;
-    background-color: #F2613F;
+    background-color: #31634c;
     
 }
 #menu tr td a:hover{
-    background-color: #df593b;
+    background-color: #3a755a;
 }
 #menu #top{
     display: flex;

@@ -1,6 +1,6 @@
 
 #drop_down {
-    background-color: #9B3922;
+    background-color: #D9CBB6;
     border-style: solid;
     position: absolute;
     text-align: center;
@@ -22,14 +22,14 @@
     height: 30px;
 }
 #drop_down div button {
-    background-color: #F2613F;
+    background-color: #F5E6C8;
     border-style: solid;
     text-align: center;
     width: 20vw;
     height: 30px;
 }
 #drop_down div button:hover {
-    background-color: #df593b;
+    background-color: #c5b8a6;
 }
 
 .events tbody tr .date{
@@ -39,7 +39,7 @@
     width: 35vw;
 }
 .events tbody tr .name a{
-    color: #481E14;
+    color: #3F4739;
 }
 .events tbody tr .location{
     width: 19vw;
@@ -50,11 +50,11 @@
     text-align: center;
 }
 .events tbody .one{
-    background-color: #9B3922;
+    background-color: #D9CBB6;
     border-width: 0px;
 }
 .events tbody tr:hover{
-    background-color: #ca5034;
+    background-color: #c5b8a6;
 }
 .events tbody tr{
     height: 40px;
