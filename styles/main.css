@@ -6,6 +6,7 @@
 body {
     font-family: sans-serif,"lemonupgraded";
     background-image: url(../images/contours.svg);
+    background-color: #0C0C0C;
     background-repeat: repeat;
     background-size: 100vw;
     padding: 0px;
@@ -21,14 +22,14 @@ body {
 }
 
 h1 {
-    color: #ca7c3aff;
+    color: #9B3922;
     font-size: 50px;
     margin-left: 12px;
 }
 
 
 .content {
-    background-color: antiquewhite;
+    background-color: #F2613F;
     margin-top: -5px;
     margin-bottom: -1000px;
     margin-left: max(0px, calc(17vw - 100px));
@@ -39,6 +40,15 @@ h1 {
     padding-right: 25px;
     padding-bottom: 25px;
 }
+
+iframe {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    background: transparent;
+}
+
 
 /* css to do with map image*/
 
