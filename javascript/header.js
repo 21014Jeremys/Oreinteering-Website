@@ -26,4 +26,3 @@ header.addEventListener("load", () => {
   
   requestAnimationFrame(updateSize);
 });
-

@@ -25,7 +25,7 @@ async function scrape() {
             }
         });
         console.log(events);
-         console.log($.html().slice(0, 500));
+        /*console.log($.html().slice(0, 500));*/
     } catch (err) {
     console.error("Scrape failed:", err.message);
   }
