@@ -1,7 +1,7 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 
-async function scrape() {
+async function scrape_1() {
     try {
         const url = "https://www.orienteering.org.nz/events/";
         const { data } = await axios.get(url);
@@ -31,4 +31,34 @@ async function scrape() {
   }
 }
 
-scrape();
+async function scrape_2() {
+    try {
+        const url = "https://www.orienteering.org.nz/";
+        const { data } = await axios.get(url);
+        const $ = cheerio.load(data)
+        const news = []
+
+        $(".widget-odd.widget-last.widget-first.widget-1.home-recent-news.onz-homepage-column1 .rpwe-block .rpwe-ul li").each((i, el) => {
+            const columns = $(el).find("a");
+            
+            const link = $(columns[0]).attr("href");
+            const image = $(columns[0]).find("img").attr("src");
+
+            const header = $(el).find("h3");
+            const name = $(header[0]).find("a").text().trim();
+            news.push({ name,link,image });
+            
+            const fs = require("fs");
+            fs.writeFileSync("../../data/news.json", JSON.stringify(news,null,2), "utf-8");
+
+        });
+        console.log(news);
+        /*console.log($.html().slice(0, 500));*/
+    } catch (err) {
+    console.error("Scrape failed:", err.message);
+  }
+}
+
+
+scrape_1();
+scrape_2();

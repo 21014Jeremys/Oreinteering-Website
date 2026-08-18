@@ -41,6 +41,27 @@ h1 {
     padding-bottom: 25px;
 }
 
+
+.news_parent tr td {
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+.news_parent tr td a img{
+    width: 30vw;
+}
+.news_parent tr td a{
+    display: grid;
+    place-items: center;
+}
+.news_parent tr td h3{
+    display: grid;
+    place-items: center;
+}
+.news_parent tr td h3 a{
+    display: flex;
+    text-align: center;
+}
+
 /* css to do with map image*/
 
 

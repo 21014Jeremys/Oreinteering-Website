@@ -1,40 +1,5 @@
 [
   {
-    "date": "Sun 16 Aug 2026",
-    "name": "Central Otago Journeys Rogaine",
-    "link": "https://www.orienteering.org.nz/events/joe-sherriff/",
-    "location": "Alexandra",
-    "club": "Dunedin"
-  },
-  {
-    "date": "Sun 16 Aug 2026",
-    "name": "Wainui Score",
-    "link": "https://www.orienteering.org.nz/events/1-hour-score-3/",
-    "location": "Lower Hutt",
-    "club": "Hutt Valley"
-  },
-  {
-    "date": "Sun 16 Aug 2026",
-    "name": "Upper Hilltop area town Rogaine",
-    "link": "https://www.orienteering.org.nz/events/upper-hilltop-area-town-event/",
-    "location": "Taupo",
-    "club": "Taupo"
-  },
-  {
-    "date": "Sun 16 Aug 2026",
-    "name": "Winton Sprint",
-    "link": "https://www.orienteering.org.nz/events/winton-sprint/",
-    "location": "Winton",
-    "club": "Southland"
-  },
-  {
-    "date": "Sun 16 Aug 2026",
-    "name": "Have a go orienteering sprint event 1",
-    "link": "https://www.orienteering.org.nz/events/have-a-go-orienteering-sprint-event-1/",
-    "location": "New Plymouth",
-    "club": "Taranaki"
-  },
-  {
     "date": "Wed 19 Aug 2026",
     "name": "CONDES 102",
     "link": "https://www.orienteering.org.nz/events/condes-102/",
@@ -155,6 +120,13 @@
   },
   {
     "date": "Sun 06 Sep 2026",
+    "name": "Wily Weka 2026 - Nelson's Backyard",
+    "link": "https://www.orienteering.org.nz/events/wily-weka-2026-nelsons-backyard/",
+    "location": "Nelson",
+    "club": "Nelson"
+  },
+  {
+    "date": "Sun 06 Sep 2026",
     "name": "Forest Cup 3",
     "link": "https://www.orienteering.org.nz/events/forest-cup-3/",
     "location": "Auckland",
@@ -260,6 +232,13 @@
   },
   {
     "date": "Sun 20 Sep 2026",
+    "name": "MTBO Silvan, Richmond",
+    "link": "https://www.orienteering.org.nz/events/mtbo-silvan-richmond/",
+    "location": "Richmond, Tasman",
+    "club": "Nelson"
+  },
+  {
+    "date": "Sun 20 Sep 2026",
     "name": "Orienteering Challenge 2",
     "link": "https://www.orienteering.org.nz/events/orienteering-challenge-3-3/",
     "location": "Hamilton",
@@ -313,6 +292,13 @@
     "link": "https://www.orienteering.org.nz/events/red-kiwi-orienteering-training/",
     "location": "Palmerston North",
     "club": "Red Kiwi"
+  },
+  {
+    "date": "Sun 11 Oct 2026",
+    "name": "Local Event - Tahuna",
+    "link": "https://www.orienteering.org.nz/events/local-event-tahuna/",
+    "location": "Tahuna, Nelson",
+    "club": "Nelson"
   },
   {
     "date": "Sun 11 Oct 2026",
