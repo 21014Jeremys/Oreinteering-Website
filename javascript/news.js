@@ -1,10 +1,10 @@
 window.addEventListener("DOMContentLoaded",() => {
     console.log("Hi")
-    fetch("../data/news.json").then(response => response.json()).then(data => {
+    fetch("data/news.json").then(response => response.json()).then(data => {
     makeTable(data);
     });
 
-    fetch("../data/update_log.txt").then(response => response.text()).then(txt => {
+    fetch("data/update_log.txt").then(response => response.text()).then(txt => {
     update_update(txt);
     });
 });
