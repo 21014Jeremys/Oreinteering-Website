@@ -5,8 +5,8 @@ async function scrape_1() {
     try {
         const url = "https://www.orienteering.org.nz/events/";
         const { data } = await axios.get(url);
-        const $ = cheerio.load(data)
-        const events = []
+        const $ = cheerio.load(data);
+        const events = [];
 
         $(".events-table tr").each((i, el) => {
             const columns = $(el).find("td");
@@ -35,8 +35,8 @@ async function scrape_2() {
     try {
         const url = "https://www.orienteering.org.nz/";
         const { data } = await axios.get(url);
-        const $ = cheerio.load(data)
-        const news = []
+        const $ = cheerio.load(data);
+        const news = [];
 
         $(".widget-odd.widget-last.widget-first.widget-1.home-recent-news.onz-homepage-column1 .rpwe-block .rpwe-ul li").each((i, el) => {
             const columns = $(el).find("a");

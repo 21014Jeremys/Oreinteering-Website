@@ -21,10 +21,10 @@ iframe.onload = function(){
             window.alert("You have doomed yourself!");
             logo.src = "../images/header/demon_mode/logo_with_demon.svg";
             if (is_demon_mode == false) {
-                is_demon_mode = true
+                is_demon_mode = true;
             } else {
-                is_demon_mode = false
-            };
+                is_demon_mode = false;
+            }
             
             console.log(logo.src);
         };
