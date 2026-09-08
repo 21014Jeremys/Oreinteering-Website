@@ -7,7 +7,7 @@
     margin-top: -50px;
     width: 20vw;
     height: 30px;
-    right: 11vw;
+    right: max(0px, calc(17vw - 75px));
 }
 #drop_down:hover div{
     display:block;
@@ -35,6 +35,7 @@
 }
 .events tbody tr .name a{
     color: #ca7c3aff;
+    width:auto;
 }
 .events tbody tr .location{
     width: 19vw;
