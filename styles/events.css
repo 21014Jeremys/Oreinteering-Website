@@ -10,7 +10,7 @@
     right: max(0px, calc(17vw - 75px));
 }
 #drop_down:hover div{
-    display:block;
+    display: flex;
 }
 #drop_down div:first-of-type {
     margin-top: 0.5vh;
@@ -20,12 +20,14 @@
     width: 20vw;
     height: 30px;
 }
-#drop_down button {
+#drop_down div button {
     text-align: center;
-    width: 20vw;
+    width: 10vw;
     height: 30px;
 }
-
+#drop_down div #end {
+    margin-left: 5vw;
+}
 .events tbody tr .date{
     width: 13vw;
 }

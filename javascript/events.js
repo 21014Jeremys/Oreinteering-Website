@@ -48,9 +48,20 @@ function makeTable(data, sort) {
 }
 
 function makeDropdown(clubs) {
-    for (index = 0; index < clubs.length; index ++) {
+    for (index = 0; index < clubs.length;) {
+        
         const button = document.createElement("div");
-        button.innerHTML = `<button onclick="updateTable(this)">${clubs[index]}</button>`;
+        console.log("Clubs: ", clubs, ", Index: ", clubs[index])
+        if (clubs.length -1 >= index + 1) {
+            button.innerHTML = `<button onclick="updateTable(this)">${clubs[index]}</button>
+                                <button onclick="updateTable(this)">${clubs[index + 1]}</button>`;
+            index += 2
+        }
+        else {
+            button.innerHTML = `<button id="end" onclick="updateTable(this)">${clubs[index]}</button>`;
+            dropdown.appendChild(button);
+            break
+        }
         dropdown.appendChild(button);
         
     }
